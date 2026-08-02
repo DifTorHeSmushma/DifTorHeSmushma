@@ -1,12 +1,14 @@
-# Dom
+### Hi — I'm Dom
 
 **Kru Muay Thai** · builder · study sabbatical
 
 I train and teach Muay Thai, and I build software daily — athlete systems, speech tools, and the environment around them.
 
-**DifTorHeSmushma** is Vulcan for *live long and prosper* (*dif-tor heh smusma*).
+My username **DifTorHeSmushma** is Vulcan for *live long and prosper* (*dif-tor heh smusma*).
 
-### Products & projects
+---
+
+### What I'm building
 
 **[My Holistic Muay Thai Journey](https://myholisticmuaythaijourney.com)** — full-spectrum Muay Thai training and lifestyle system (iOS & Android). Voice session logging, Kru Voice Coach, S&C shaped by today's training load, meditation & breathwork. Built from 35 years training and teaching as a Kru-qualified coach.
 
@@ -15,4 +17,5 @@ I train and teach Muay Thai, and I build software daily — athlete systems, spe
 **[still-to-reel](https://github.com/DifTorHeSmushma/still-to-reel)** — still PNG → Instagram Reel.
 
 ### Support
+
 [Buy Me a Coffee](https://www.buymeacoffee.com/oraclespeakflow) · [GitHub Sponsors](https://github.com/sponsors/DifTorHeSmushma)
