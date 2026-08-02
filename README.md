@@ -4,7 +4,7 @@
 
 I train and teach Muay Thai, and I build software daily — athlete systems, speech tools, and the environment around them.
 
-My username **DifTorHeSmushma** is Vulcan for *live long and prosper* (*dif-tor heh smusma*).
+My username **DifTorHeSmushma** is Vulcan for *live long and prosper* (*dif-tor heh smusma*) — a nod to Spock, who rarely showed emotion but was said to have the most of it, because he loved the most. Offered with respect, as a metaphor for those values; anyone who understood Vulcans and Spock will know exactly what I mean.
 
 ---
 
